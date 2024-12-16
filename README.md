@@ -22,4 +22,6 @@ http://192.168.1.9
 
 Controler les logs  
 
-![Capture d'écran 2024-12-16 144810](https://github.com/user-attachments/assets/d03ec78e-1206-4dcb-a77d-292d422ab515)
+![Capture d'écran 2024-12-16 144810](https://github.com/user-attachments/assets/d03ec78e-1206-4dcb-a77d-292d422ab515)  
+
+Sur l'image ci-dessus, on observe les logs générés par la connection 192.168.1.9 depuis le navigateur Chrome via un system Windows
