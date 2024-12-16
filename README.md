@@ -1,7 +1,8 @@
 
 # Composants pour l'exercice  
 
--Un serveur Debian 12 (192.168.1.9)
+- Un serveur Debian 12 (192.168.1.9)  
+- Un client Windows 11 avec navigateur Chrome
 
 
 # Installation d'un serveur nginx  
