@@ -12,7 +12,7 @@
 # Vérifier la version installé
 - nginx -v  
 
-- Controler l'état du service  
+# Controler l'état du service  
   systemctl status nginx.service  
 
 # Génération de logs
