@@ -18,7 +18,7 @@
 
 # Génération de logs
 
-# Accéder au site depuis la machine client avec Chrome
+Accéder au site depuis la machine client avec Chrome
 http://192.168.1.9
 
 Controler les logs  
